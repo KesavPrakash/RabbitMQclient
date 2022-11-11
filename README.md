@@ -2,6 +2,8 @@
 I developed a windows app in C# .Net 6 that can be used for testing rabbitmq based apps, this client app will helps you to publish/consume payloads without login to the rabbitmq admin page.
 
 
+<img width="830" alt="image" src="https://user-images.githubusercontent.com/82328342/201350642-d96feebe-a1ec-4ea0-97e1-6a6ee0bdc4a7.png">
+
 ## Prerequesties
 Installation and setup
 ```
@@ -47,4 +49,3 @@ Configure rabbitmq Exchanges,Queues details in UI
 Click Consume, this will continiously started listen 
 If any new messages will be updated in activity logs
 ```
-<img width="830" alt="image" src="https://user-images.githubusercontent.com/82328342/201350642-d96feebe-a1ec-4ea0-97e1-6a6ee0bdc4a7.png">

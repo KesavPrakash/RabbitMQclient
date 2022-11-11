@@ -29,3 +29,22 @@ Create a new c# windows appliction, we need to add “RabbitMQ.Client” nuget p
 RabbitMQ server to publish or consume messages for that, right click on your application and select Manage NuGet Packages, 
 Now search for RabbitMQ.Client package and install it in your application 
 ```
+## Run the app
+
+Publish
+```
+Download the project and run
+Configure rabbitmq Exchanges,Queues details in UI
+Enter your payload to send
+Publish it
+Check the published message status in activity logs
+```
+Consume
+
+```
+Download the project and run
+Configure rabbitmq Exchanges,Queues details in UI
+Click Consume, this will continiously started listen 
+If any new messages will be updated in activity logs
+```
+<img width="830" alt="image" src="https://user-images.githubusercontent.com/82328342/201350642-d96feebe-a1ec-4ea0-97e1-6a6ee0bdc4a7.png">

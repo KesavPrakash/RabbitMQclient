@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56dc9d2f-28ff-4124-ba12-a8ba657b472f": {
+      "ProjectGuid": "56dc9d2f-28ff-4124-ba12-a8ba657b472f",
+      "DisplayName": "RabbitMQClient",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
